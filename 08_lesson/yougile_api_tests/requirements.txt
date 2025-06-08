@@ -1,0 +1,5 @@
+﻿pytest==7.4.0
+requests==2.31.0
+python-dotenv==1.0.0
+pytest-html==4.1.1
+types-requests==2.31.0.1
